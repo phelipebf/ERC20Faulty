@@ -80,7 +80,7 @@ Provides upgradeable functionality for all smart contracts using the UUPS proxy 
 
 ### [Trusted Forwarder](./contracts/gasless-contracts/TrustedForwarder.sol)
 
-Enables seamless meta-transactions, supporting off-chain signing and gasless interactions with Fireblocks token contracts.
+Enables seamless meta-transactions, supporting off-chain signing and gasless interactions with token contracts.
 
 ### [Fungible LayerZero Adapter](./contracts/bridge-adapter/FungibleLayerZeroAdapter.sol)
 
@@ -99,8 +99,8 @@ An adapter for integrating ERC20 tokens with LayerZero, enabling cross-chain fun
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/fireblocks/fireblocks-smart-contracts.git
-cd fireblocks-smart-contracts
+git clone https://github.com/phelipebf/ERC20Faulty.git
+cd ERC20Faulty
 npm install --force
 ```
 
