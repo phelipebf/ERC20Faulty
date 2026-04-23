@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
-// Copyright (C) 2025 Fireblocks <support@fireblocks.com>
+// Copyright (C) 2025
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
@@ -17,8 +17,8 @@ pragma solidity ^0.8.20;
 
 /**
  * @title Errors Library
- * @author Fireblocks
- * @notice The Errors Library provides error messages for the Fireblocks ecosystem of smart contracts.
+ * @author 
+ * @notice The Errors Library provides error messages for the ecosystem of smart contracts.
  */
 library LibErrors {
     /// Errors

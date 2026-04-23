@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
-// Copyright (C) 2024 Fireblocks <support@fireblocks.com>
+// Copyright (C) 2024
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
@@ -23,7 +23,7 @@ import {LibErrors} from "../Errors/LibErrors.sol";
 
 /**
  * @title Role Access Upgradeable
- * @author Fireblocks
+ * @author 
  * @dev This abstract contract provides internal contract logic for managing access control roles.
  */
 abstract contract RoleAccessUpgradeable is Initializable, AccessControlUpgradeable {

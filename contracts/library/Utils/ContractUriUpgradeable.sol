@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
-// Copyright (C) 2024 Fireblocks <support@fireblocks.com>
+// Copyright (C) 2024
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
@@ -20,7 +20,7 @@ import {ContextUpgradeable} from "@openzeppelin/contracts-upgradeable/utils/Cont
 
 /**
  * @title Contract Uri Upgradeable
- * @author Fireblocks
+ * @author
  * @dev This abstract contract provides internal contract logic for upgrading the contract URI.
  */
 abstract contract ContractUriUpgradeable is Initializable, ContextUpgradeable {

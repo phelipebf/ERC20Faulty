@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
-// Copyright (C) 2024 Fireblocks <support@fireblocks.com>
+// Copyright (C) 2024
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
@@ -36,8 +36,8 @@ import {RoleAccessUpgradeable} from "./library/Utils/RoleAccessUpgradeable.sol";
 
 /**
  * @title ERC20F
- * @author Fireblocks
- * @notice This contract represents a fungible token within the Fireblocks ecosystem of contracts.
+ * @author 
+ * @notice This contract represents a fungible token within the ecosystem of contracts.
  *
  * The contract utilizes the UUPS (Universal Upgradeable Proxy Standard) for seamless upgradability. This standard
  * enables the contract to be easily upgraded without disrupting its state. By following the UUPS proxy pattern, the

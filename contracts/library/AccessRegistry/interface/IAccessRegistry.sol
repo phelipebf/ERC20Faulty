@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
-// Copyright (C) 2024 Fireblocks <support@fireblocks.com>
+// Copyright (C) 2024
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as published by
@@ -17,7 +17,7 @@ pragma solidity 0.8.20;
 
 /**
  * @title Access Registry Interface
- * @author Fireblocks
+ * @author 
  * @notice Access Registry Interface serves as a generalized interface for interacting with the Access Registry.
  *
  * @dev Interface for the Access Registry features.
